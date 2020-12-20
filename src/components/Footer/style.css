@@ -1,0 +1,60 @@
+#footer {
+	position: absolute;
+	width: 1440px;
+	height: 352px;
+	left: 0px;
+	bottom: 0px;
+	background: #60696b;
+}
+
+#group-1 {
+	position: absolute;
+	width: 291px;
+	height: 220.92px;
+	left: 101px;
+	top: 71.7px;
+	bottom: 59.37px;
+	/*background: #000000;*/
+}
+
+
+#group-1 h2 {
+	/*position: absolute;*/
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	line-height: 53px;
+	text-align: left;
+	color: #fbc531;
+}
+
+#group-1 h2 {
+	width: 221px;
+	border-bottom: 10px solid #fbc531;
+	min-width: 70px;
+	min-height: 70px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.contact {
+	display: flex;
+	padding-top: 30px;
+}
+
+.contact img {
+	height: 48.83%;
+	left: 9.44%;
+	right: 87.78%;
+	bottom: 133.7px;
+}
+
+.contact a {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: left;
+	text-decoration: none;
+	color: #fffdfd;
+}
