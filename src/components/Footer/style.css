@@ -1,11 +1,17 @@
 #footer {
-	/*display: flex;*/
+	display: flex;
 	position: absolute;
 	width: 1440px;
 	height: 352px;
 	left: 0px;
 	bottom: 0px;
+	top: 2403px;
 	background: #60696b;
+}
+
+#footer > div {
+  margin: 100px;
+  padding: 100px;
 }
 
 #group-1 {
@@ -18,9 +24,8 @@
 	/*background: #000000;*/
 }
 
-
 #group-1 h2 {
-	/*position: absolute;*/
+	position: absolute;	
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: bold;
@@ -59,12 +64,12 @@
 	text-decoration: none;
 	color: #fffdfd;
 }
-
+/*
 #group-2 {
 	position: absolute;
 	width: 463px;
 	height: 176px;
 	left: 504px;
 	top: 2477.96px;
-	bottom: 59.37px;
 }
+*/
