@@ -24,7 +24,12 @@ class Footer extends Component {
                 </div>
 
                 <div id="group-2">
-                	
+                	<h2>Horário de atendimento</h2>
+                	<div className="schedule">
+                		<h1>
+                			Seg a Sex - das 8h as 18h
+                		</h1>
+                	</div>
                 </div>
 
                 <div id="group-3">
