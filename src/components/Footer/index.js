@@ -11,38 +11,30 @@ class Footer extends Component {
 				<div id="group-1">
 				    <h2>Siga-nos</h2>
 				    <div className="contact">
-	                    <img src={Instagram} className="vector-imf" alt="Instagram log"></img>
-	                    <a href="instagram.com/">@pet&gatô</a>
-	                </div>
-
-	                <div className="contact">
-	                    <img src={Twitter} className="twitter-img" alt="Twitter log"></img>
-
-	                    <a href="twitter.com/">@pet&gatô</a>
+				    	<div id="instagram">
+		                    <img src={Instagram} className="vector-imf" alt="Instagram log"></img>
+		                    <a href="https://www.instagram.com/" target="_blank">@pet&gatô</a>
+		                </div>
+		                <div id="twitter">
+		                    <img src={Twitter} className="twitter-img" alt="Twitter log"></img>
+		                    <a href="https://www.twitter.com/" target="_blank">@pet&gatô</a>
+		                </div>
 	                </div>
                 </div>
 
                 <div id="group-2">
-                	<h2>Horário de atendimento</h2>
                 	<div className="schedule">
-                		<h1>
-                			Seg a Sex - das 8h as 18h
-                		</h1>
-                		<h1>
-                			Sab - das 8h as 16h
-                		</h1>
+                		<h2>Horário de atendimento</h2>
+                		<h1>Seg a Sex - das 8h as 18h</h1>
+                		<h1>Sab - das 8h as 16h</h1>
                 	</div>
                 </div>
 
                 <div id="group-3">
                 	<h1>Dúvidas</h1>
                 	<div className="doubt">
-                		<h1>
-                			Atendimento
-                		</h1>
-                		<h1>
-                			Ajuda online
-                		</h1>
+                		<h1>Atendimento</h1>
+                		<h1>Ajuda online</h1>
                 	</div>
                 </div>
 			</div>
